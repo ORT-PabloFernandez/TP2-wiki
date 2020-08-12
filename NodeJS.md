@@ -3,7 +3,7 @@ Sitio oficial: [Node.js](https://nodejs.org/en/)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/200px-Node.js_logo.svg.png)
 
-Node.js® es un entorno de ejecución para JavaScript construido con el motor de JavaScript [V8](https://github.com/ORT-PabloFernandez/TP2A/wiki/V8) de Chrome. Basado en el lenguaje de programación de [ECMAScript](https://github.com/ORT-PabloFernandez/TP2A/wiki/ECMAScript)
+Node.js® es un entorno de ejecución para JavaScript construido con el motor de JavaScript [V8](https://github.com/ORT-PabloFernandez/TP2-wiki/V8) de Chrome. Basado en el lenguaje de programación de [ECMAScript](https://github.com/ORT-PabloFernandez/TP2A/wiki/ECMAScript)
 
 ## Módulos
 Node.js incorpora varios "módulos básicos" compilados en el propio binario, como por ejemplo el módulo de red, que proporciona una capa para programación de red asíncrona y otros módulos fundamentales, como por ejemplo Path, FileSystem, Buffer, Timers y el de propósito más general Stream. Es posible utilizar módulos desarrollados por terceros, ya sea como archivos ".node" precompilados, o como archivos en javascript plano. 
