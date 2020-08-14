@@ -14,4 +14,10 @@ Pese a que los módulos pueden instalarse como archivos simples, normalmente se 
 ¿Qué significa un Desarrollador Full Stack?
 [Road Map Full Stack Developer](https://github.com/kamranahmedse/developer-roadmap)
 
+<<<<<<< HEAD
 ## Nueva Sección
+=======
+## Nuevo Sección
+Contenido
+
+>>>>>>> 61e0cf1dadcdf697b74b7c316e669bfc04cc81e7
