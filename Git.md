@@ -15,3 +15,7 @@ Una guia rapida:
 [sitio oficial](https://github.com/)
 
 GitHub se ha convertido en una autentica plataforma de desarrollo, se usa mucho para soportar el desarrollo distribuido, ademas que también para implementar integración continua, entrega continua, etc.
+
+### Los comandos mas comunes
+> git init
+> git remote add [nombre_repo_remoto]
