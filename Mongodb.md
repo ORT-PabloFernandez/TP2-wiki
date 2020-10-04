@@ -16,5 +16,5 @@ La linea de comando de MongoDB, una interface Javascript para realizar operacion
 [download MongoDB Enterprice Server](https://www.mongodb.com/download-center/enterprise)
 
 ### MongoDB Compass
-El GUI para mongo, sirbe para explorar los datos visualmente. Ejecutar queries, hacer CRUD
+El GUI para mongo, sirve para explorar los datos visualmente. Ejecutar queries, hacer CRUD
 [download compass](https://www.mongodb.com/download-center/compass)
